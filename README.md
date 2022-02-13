@@ -11,8 +11,10 @@
 
 下載資料夾內的壓縮檔並且解壓縮至桌面
 打開cmd
-輸入 cd C:\Users\USER\Desktop\echoBot\
-
+輸入 : 
+```DOS
+cd C:\Users\USER\Desktop\echoBot\
+```
 ![image](https://user-images.githubusercontent.com/55253641/153766964-ba9ec827-6d93-460f-897a-f18f15166f62.png)
 
 輸入 npm install
