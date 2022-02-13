@@ -1,7 +1,7 @@
 # Twitch_echo_bot
 
 ## 環境設定
-[Windows版本](https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi)
+[Windows安裝nodejs](https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi)
 
 [Nodejs安裝教學](https://www.runoob.com/nodejs/nodejs-install-setup.html)
 
