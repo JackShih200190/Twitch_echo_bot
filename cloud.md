@@ -27,3 +27,8 @@
 ![image](https://user-images.githubusercontent.com/55253641/153767161-c5b2db4b-30e0-4a09-9cd8-cb09f211a6d3.png)
 
 這邊是機器人的設定一樣Twitch_ID貼到username的單引號內，password就是去網頁獲取token
+
+然後按Run
+
+![image](https://user-images.githubusercontent.com/55253641/153771501-3958a822-6a44-4a53-8717-6fb7832abdaf.png)
+
