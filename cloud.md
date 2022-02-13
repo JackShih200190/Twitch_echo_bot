@@ -8,3 +8,8 @@
 
 ## 開啟專案
 ![image](https://user-images.githubusercontent.com/55253641/153768361-c785f39f-21b0-4f18-af81-5a30a029c976.png)
+
+按左上" + create" 輸入"Node.js"
+
+![image](https://user-images.githubusercontent.com/55253641/153768427-8d227281-123e-4977-9ad9-ec305a50a17c.png)
+
