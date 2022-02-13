@@ -17,7 +17,10 @@ cd C:\Users\USER\Desktop\echoBot\
 ```
 ![image](https://user-images.githubusercontent.com/55253641/153766964-ba9ec827-6d93-460f-897a-f18f15166f62.png)
 
-輸入 npm install
+輸入 : 
+```DOS
+npm install
+```
 
 ![image](https://user-images.githubusercontent.com/55253641/153766362-cf9d0d19-679e-46b2-8af9-64494ddc5f15.png)
 
@@ -45,11 +48,17 @@ cd C:\Users\USER\Desktop\echoBot\
 
 ## 執行程式
 
-打開cmd，輸入cd C:\Users\USER\Desktop\echoBot\
+打開cmd，輸入 : 
+```DOS
+cd C:\Users\USER\Desktop\echoBot\
+```
 
 ![image](https://user-images.githubusercontent.com/55253641/153766330-9b70099a-1e74-40ce-a4fd-8077b14ee4c1.png)
 
-然後輸入:node .\bot-twitch-echo.js
+然後輸入 : 
+```DOS
+node .\bot-twitch-echo.js
+```
 
 ![image](https://user-images.githubusercontent.com/55253641/153766404-1dc98be0-abfe-4778-b83e-48d4be840d24.png)
 
