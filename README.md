@@ -1,4 +1,4 @@
 # Twitch_echo_bot
 
 ### 環境設定
-[https://nodejs.org/en](下載網址)
+[Windows版本](https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi)
