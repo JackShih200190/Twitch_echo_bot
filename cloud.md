@@ -13,3 +13,11 @@
 
 ![image](https://user-images.githubusercontent.com/55253641/153768427-8d227281-123e-4977-9ad9-ec305a50a17c.png)
 
+
+## 專案內下載資料
+點選shell下載所需資料輸入
+```DOS
+git clone 
+```
+
+![image](https://user-images.githubusercontent.com/55253641/153768695-0f752d67-5bc0-4002-b4f3-fd232824287e.png)
