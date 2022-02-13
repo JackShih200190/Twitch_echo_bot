@@ -37,11 +37,11 @@ npm install
 
 每隻帳號都要獲取聊天室token
 
-![image](https://user-images.githubusercontent.com/55253641/153766096-0a9423a3-915c-4659-ae92-ed5a84aa1a79.png)
+![image](https://user-images.githubusercontent.com/55253641/153767144-e9eb1f0c-a3e7-49ea-8b10-a7cc66c2afb8.png)
 
 將你的Twitch_ID貼到user name的單引號內，password就是去網頁獲取token
 
-![image](https://user-images.githubusercontent.com/55253641/153766139-7edfb7f6-c3de-4bf9-9880-2a6f12f3ff5c.png)
+![image](https://user-images.githubusercontent.com/55253641/153767161-c5b2db4b-30e0-4a09-9cd8-cb09f211a6d3.png)
 
 這邊是機器人的設定一樣Twitch_ID貼到user name的單引號內，password就是去網頁獲取token
 
