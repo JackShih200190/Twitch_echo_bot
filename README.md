@@ -3,6 +3,7 @@
 ## 環境設定
 [Windows版本](https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi)
 [Nodejs安裝教學](https://www.runoob.com/nodejs/nodejs-install-setup.html)
+[線上版VScode](https://vscode.dev/)
 
 ## 安裝套件
 
@@ -15,6 +16,11 @@
 
 [cmd cd用法教學](https://dotblogs.com.tw/CYLcode/2018/09/13/102159)
 
+## 線上版VScode
+點選open folder
+
+![image](https://user-images.githubusercontent.com/55253641/153766901-e1724db9-dbb0-478c-9276-ee41cc4e246a.png)
+
 ## 程式碼更改內容
 
 [獲取帳號聊天室token](https://twitchapps.com/tmi/)
@@ -23,11 +29,11 @@
 
 ![image](https://user-images.githubusercontent.com/55253641/153766096-0a9423a3-915c-4659-ae92-ed5a84aa1a79.png)
 
-將你的ID貼到user name冒號內，password就是你拿到的聊天室token
+將你的Twitch_ID貼到user name的單引號內，password就是去網頁獲取token
 
 ![image](https://user-images.githubusercontent.com/55253641/153766139-7edfb7f6-c3de-4bf9-9880-2a6f12f3ff5c.png)
 
-這邊是機器人的設定一樣ID貼到user name的冒號內，password就是到網頁獲取的聊天室token
+這邊是機器人的設定一樣Twitch_ID貼到user name的單引號內，password就是去網頁獲取token
 
 
 ## 執行程式
