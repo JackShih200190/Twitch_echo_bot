@@ -18,6 +18,7 @@
 ## 程式碼更改內容
 
 [獲取帳號聊天室token](https://twitchapps.com/tmi/)
+
 每隻帳號都要獲取聊天室token
 
 ![image](https://user-images.githubusercontent.com/55253641/153766096-0a9423a3-915c-4659-ae92-ed5a84aa1a79.png)
