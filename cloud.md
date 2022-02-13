@@ -7,7 +7,9 @@
 自行使用Google、Github、Facebook進行登入
 
 ## 開啟專案
-按Fork repl
 [連結位置](https://replit.com/@JackShih200190/Twitchchatecho#Tech_Doc.md)
+
+按Fork repl
+
 
 ![image](https://user-images.githubusercontent.com/55253641/153771233-2d56a92d-d1f9-445b-8d24-73bc664369a1.png)
