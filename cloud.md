@@ -13,3 +13,17 @@
 
 
 ![image](https://user-images.githubusercontent.com/55253641/153771233-2d56a92d-d1f9-445b-8d24-73bc664369a1.png)
+
+## 修改檔案
+
+[獲取帳號聊天室token](https://twitchapps.com/tmi/)
+
+每隻帳號都要獲取聊天室token
+
+![image](https://user-images.githubusercontent.com/55253641/153767144-e9eb1f0c-a3e7-49ea-8b10-a7cc66c2afb8.png)
+
+將你的Twitch_ID貼到username的單引號內，password就是去網頁獲取token
+
+![image](https://user-images.githubusercontent.com/55253641/153767161-c5b2db4b-30e0-4a09-9cd8-cb09f211a6d3.png)
+
+這邊是機器人的設定一樣Twitch_ID貼到username的單引號內，password就是去網頁獲取token
