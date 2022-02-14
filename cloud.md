@@ -14,6 +14,18 @@
 
 ![image](https://user-images.githubusercontent.com/55253641/153771233-2d56a92d-d1f9-445b-8d24-73bc664369a1.png)
 
+## 資安設定
+
+將專案設定成私人
+點選My Repls將
+
+![image](https://user-images.githubusercontent.com/55253641/153880882-424ffc17-c0ae-4266-8bfa-eb81659f85ba.png)
+
+往右滑上鎖
+
+![image](https://user-images.githubusercontent.com/55253641/153880986-d542c5a8-c761-4f53-890e-194725dced8c.png)
+
+
 ## 修改檔案
 
 [獲取帳號聊天室token](https://twitchapps.com/tmi/)
@@ -31,4 +43,5 @@
 然後按Run
 
 ![image](https://user-images.githubusercontent.com/55253641/153771501-3958a822-6a44-4a53-8717-6fb7832abdaf.png)
+
 
