@@ -17,13 +17,15 @@
 ## 資安設定
 
 將專案設定成私人
-點選My Repls將
+點選My Repls
 
 ![image](https://user-images.githubusercontent.com/55253641/153880882-424ffc17-c0ae-4266-8bfa-eb81659f85ba.png)
 
-往右滑上鎖
+往右滑從public變成private
 
 ![image](https://user-images.githubusercontent.com/55253641/153880986-d542c5a8-c761-4f53-890e-194725dced8c.png)
+
+![image](https://user-images.githubusercontent.com/55253641/153881190-0add2b41-0ca5-4f6d-9b3e-4a41c46b4989.png)
 
 
 ## 修改檔案
